@@ -8,9 +8,10 @@ function LandingPage (parentElement){
 
 LandingPage.prototype.generate = function () {
     this.elements = `
-        <header>
-        <h1> The best Lyrics Website </h1>
-        <h2> Welcome! </h2>
+        <header class="main-header">
+        
+        <h1> Lyrics Website </h1>
+        
         </header>
     `;
     this.render(); 
