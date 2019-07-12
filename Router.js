@@ -8,12 +8,12 @@ function Router () {
     {artist: 'Phil Collins', song:'In the Air Tonight'},
     {artist: 'Madonna', song:'Material Girl'},
     {artist: 'R.E.M.', song:'Losing My Religion'},
-    {artist: 'U2', song:'Sunday Bloody Sunday'},
-    {artist: 'Blondie', song:'Call Me'},
-    {artist: 'Prince', song:'Kiss'},
-    {artist: 'Irene Cara', song:'What A Feeling'},
-    {artist: 'The Stranglers', song:'Golden Brown'},
-    {artist: 'Bon Jovi', song:'You Give Love A Bad Name'},
+    // {artist: 'U2', song:'Sunday Bloody Sunday'},
+    // {artist: 'Blondie', song:'Call Me'},
+    // {artist: 'Prince', song:'Kiss'},
+    // {artist: 'Irene Cara', song:'What A Feeling'},
+    // {artist: 'The Stranglers', song:'Golden Brown'},
+    // {artist: 'Bon Jovi', song:'You Give Love A Bad Name'},
 ]
 
 }

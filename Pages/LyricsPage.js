@@ -18,7 +18,7 @@ LyricsPage.prototype.generate = async function () {
     this.elements = `
         <header>
         
-        <h2> Lyrics Page! </h2>
+       
         </header>
         <section class="cards-container">
 
@@ -27,6 +27,8 @@ LyricsPage.prototype.generate = async function () {
     
         this.elements += `
         <article>
+        <h2> ${this.artist} </h2>
+        <h3> ${this.song} </h3>
         <h5>${this.lyrics.lyrics}</h5>
         </article>
         

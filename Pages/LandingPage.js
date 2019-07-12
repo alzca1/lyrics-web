@@ -10,7 +10,7 @@ LandingPage.prototype.generate = function () {
     this.elements = `
         <header class="main-header">
         
-        <h1> Lyrics Website </h1>
+        <h1>  </h1>
         
         </header>
     `;
