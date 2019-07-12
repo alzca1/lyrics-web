@@ -246,7 +246,7 @@ img {
   height: 100%;
   -webkit-transition: all 350ms ease-in-out;
   -o-transition: all 350ms ease-in-out;
-  transition: all 550ms ease-in-out;
+  transition: all 350ms ease-out;
   
 
 }
@@ -265,7 +265,7 @@ color: #FFFFFF;
 
 article {
   background-color: rgba(0,0,0,0.6);
-  padding: 2%;
+  padding: 0.5%;
   border-radius: 30px;
 
 }
