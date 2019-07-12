@@ -29,7 +29,7 @@ LyricsPage.prototype.generate = async function () {
         <article>
         <h2> ${this.artist} </h2>
         <h3> ${this.song} </h3>
-        <h5>${this.lyrics.lyrics}</h5>
+        <h5>${this.lyrics.lyrics.replace(/\n/g, '<br />')}</h5>
         </article>
         
         `;
